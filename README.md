@@ -4,11 +4,11 @@
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=geefranc&label=Profile%20views&color=0e75b6&style=flat" alt="geefranc" /> </p>
 
 <hr>
-- 🌱 I’m currently learning **C, Java, & python**
+- 🌱 I’m currently learning **C, Java, & c++**
 
-- 💬 Ask me about **C & python**
+- 💬 Ask me about **C & c++**
 
-- 📫 How to reach me **frankgeeh04@gmail.com**
+- 📫 You can rach me through this email **frankgeeh04@gmail.com**
 
 <br>
 
